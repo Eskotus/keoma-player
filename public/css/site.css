@@ -1,0 +1,9 @@
+.app {
+    margin-top: 15px;
+}
+
+.comments-list .list-group > .list-group {
+    padding-left: 25px;
+    margin-bottom: 0px;
+}
+
