@@ -7,3 +7,8 @@
     margin-bottom: 0px;
 }
 
+.with-canvas {
+    border-style: solid;
+    border-width: 1px;
+}
+

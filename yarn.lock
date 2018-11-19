@@ -919,6 +919,10 @@ keycode@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/keycode/-/keycode-2.2.0.tgz#3d0af56dc7b8b8e5cba8d0a97f107204eec22b04"
 
+konva@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/konva/-/konva-2.5.1.tgz#cca611a9522e831e54cf57c508a1aed3f0ceac25"
+
 lodash@^4.17.4:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
@@ -1425,6 +1429,10 @@ warning@^3.0.0:
   resolved "https://registry.yarnpkg.com/warning/-/warning-3.0.0.tgz#32e5377cb572de4ab04753bdf8821c01ed605b7c"
   dependencies:
     loose-envify "^1.0.0"
+
+waveform-data@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/waveform-data/-/waveform-data-2.0.2.tgz#be8092f3e0d7edebc050e5b313c3f97a0690472c"
 
 whatwg-fetch@>=0.10.0:
   version "2.0.3"

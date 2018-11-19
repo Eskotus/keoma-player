@@ -1,6 +1,7 @@
 {:source-paths ["src"]
 
  :dependencies [[reagent "0.8.1"]
+                [cljs-http "0.1.45"]
                 [cider/cider-nrepl "0.16.0"]]
 
  :builds {:app {:target :browser
